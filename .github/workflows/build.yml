@@ -1,5 +1,4 @@
 name: Build Mira APK
-
 on:
   workflow_dispatch:
   push:
